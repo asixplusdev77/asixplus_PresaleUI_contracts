@@ -24,7 +24,6 @@ import NetworkAlert from './components/general/NetworkAlert'
 
 import * as bootstrap from 'bootstrap'
 import CheckWhitelist from './components/general/checkWhitelist'
-import FetchingDataLoader from './components/general/FetchingDataLoader'
 window.bootstrap = bootstrap
 
 function App() {
